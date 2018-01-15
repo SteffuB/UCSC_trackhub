@@ -1,0 +1,5 @@
+hub SB_trackhub
+shortLabel SB_trackhub
+longLabel SB_trackhub
+genomesFile SB_trackhub.genomes.txt
+email stefan.butz@uzh.ch
