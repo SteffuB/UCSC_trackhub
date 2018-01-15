@@ -1,2 +1,0 @@
-genome mm9
-trackDB https://raw.githubusercontent.com/SteffuB/UCSC_trackhub/master/mm9/trackDb.txt
