@@ -1,5 +1,5 @@
 track SBChIP01_Zfp57_DBD
-bigDataUrl track_data_URL
-shortLabel short_label
-longLabel long_label
-type track_type 
+bigDataUrl Zfp57_unique_dedup.wig.gz
+shortLabel SBChIP01_Zfp57_DBD
+longLabel SBChIP01_Zfp57_DBD, dedup using picard, unique using samtools
+type wig
