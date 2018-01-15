@@ -1,5 +1,0 @@
-track SBChIP01_Zfp57_DBD
-bigDataUrl https://raw.githubusercontent.com/SteffuB/UCSC_trackhub/master/mm9/Zfp57_unique_dedup.wig.gz
-shortLabel SBChIP01_Zfp57_DBD
-longLabel SBChIP01_Zfp57_DBD, dedup using picard, unique using samtools
-type wig
