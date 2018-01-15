@@ -1,0 +1,5 @@
+track SBChIP01_Zfp57_DBD
+bigDataUrl track_data_URL
+shortLabel short_label
+longLabel long_label
+type track_type 
