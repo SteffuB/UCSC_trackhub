@@ -1,0 +1,5 @@
+hub hub
+shortLabel testhub
+longLabel testhub
+genomesFile testhub.genomes.txt
+email stefan.butz@uzh.ch
