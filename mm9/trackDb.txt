@@ -1,0 +1,8 @@
+track Zfp57_dedup
+bigDataUrl Zfp57_dedup.wig
+shortLabel Zfp57_dedup
+longLabel Zfp57_dedup
+type wig
+visibility full
+color 128,0,5
+autoScale on
