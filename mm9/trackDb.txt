@@ -1,8 +1,0 @@
-track Zfp57uniquededupwiggz
-bigDataUrl Zfp57uniquededupwiggz.bigWig
-shortLabel Zfp57uniquededupwiggz
-longLabel Zfp57uniquededupwiggz
-type bigWig
-visibility full
-color 128,0,5
-autoScale on
