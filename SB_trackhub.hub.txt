@@ -1,5 +1,0 @@
-hub SB_trackhub
-shortLabel SB_trackhub
-longLabel SB_trackhub
-genomesFile https://raw.githubusercontent.com/SteffuB/UCSC_trackhub/master/SB_trackhub.genomes.txt
-email stefan.butz@uzh.ch
